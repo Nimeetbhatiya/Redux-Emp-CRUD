@@ -1,0 +1,5 @@
+.focus-ring:focus {
+    border-color: #0d6efd !important;
+    box-shadow: 0 0 8px #0d6efd !important;
+  }
+  
